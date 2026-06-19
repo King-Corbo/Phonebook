@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name":"Ja",
+    "number":"1-758-716-8547"
+}

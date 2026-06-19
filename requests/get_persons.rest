@@ -1,0 +1,7 @@
+//Get all persons
+GET http://localhost:3001/api/persons
+
+###
+
+//Fetching a single resource
+GET http://localhost:3001/api/persons/6a31fa3359a1a9deab1ab523
